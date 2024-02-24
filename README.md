@@ -21,6 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SOFTWARECLASHERS&icon=0&color=0)](https://visitcount.itsvg.in)
 
+##
 <img src="https://raw.githubusercontent.com/SOFTWARECLASHERS/SOFTWARECLASHERS/output/snake.svg" alt="Snake animation" />
+
 
 ###
