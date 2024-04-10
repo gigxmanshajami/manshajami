@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="111" src="https://media1.tenor.com/m/UKx88MLZsVMAAAAC/log-horizon-akatsuki.gif"  />
+<img align="center" height="111" src="https://media1.tenor.com/m/UKx88MLZsVMAAAAC/log-horizon-akatsuki.gif"  />
 
 ###
 
